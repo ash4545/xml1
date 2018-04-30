@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<breakfast_menu>
+<food>
+    <name>Veg biriyani</name>
+    <price>$5.95</price>
+    <description>
+  famous food in the hyderabaad
+   </description>
+    <calories>650</calories>
+</food>
+<food>
+    <name>idly</name>
+    <price>$7.95</price>
+    <description>
+   it makes through rice item
+    </description>
+    <calories>900</calories>
+</food>
+<food>
+    <name>puri sabji</name>
+    <price>$8.95</price>
+    <description>
+   it makes through atta
+    </description>
+    <calories>900</calories>
+</food>
+<food>
+    <name>Toast</name>
+    <price>$4.50</price>
+    <description>
+    Thick slices made from our homemade sourdough bread
+    </description>
+    <calories>600</calories>
+</food>
+<food>
+    <name>Homestyle Breakfast</name>
+    <price>$6.95</price>
+    <description>
+    Two eggs or sausage, toast, and our ever-popular hash browns
+    </description>
+    <calories>950</calories>
+</food>
+</breakfast_menu>

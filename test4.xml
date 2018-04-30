@@ -1,0 +1,17 @@
+<root xmlns:h="http://www.w3.org/TR/html4/"
+xmlns:f="https://www.laratechnology.com/institute">
+
+<h:table>
+  <h:tr>
+    <h:td>java</h:td>
+    <h:td>angular5</h:td>
+  </h:tr>
+</h:table>
+
+<f:table>
+  <f:name>its good institute</f:name>
+  <f:width>80</f:width>
+  <f:length>120</f:length>
+</f:table>
+
+</root>
